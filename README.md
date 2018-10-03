@@ -1,0 +1,1 @@
+# stqa_project
