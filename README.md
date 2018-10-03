@@ -1,1 +1,1 @@
-# stqa_project
+# cricket_fantasy_league
